@@ -4,14 +4,14 @@ A modern, glassmorphic shopping app built for the Elevate Flutter Filtration Tas
 Products are pulled from **two** public APIs, merged into one catalog, and can be
 searched, filtered by category, favorited, and added to a cart.
 
-## Screenshots
+## 🎥 Project Demo
 
-| Home | Favorites | Cart |
-|---|---|---|
-| _add screenshot_ | _add screenshot_ | _add screenshot_ |
+Check out a video demonstration of the project in action:
 
-> Run the app and drop your screenshots into a `screenshots/` folder, then swap the
-> placeholders above with `![Home](screenshots/home.png)` etc.
+https://github.com/user-attachments/assets/1bea5825-4ae1-4465-bbd4-ecee3da532a6
+
+---
+
 
 ## Features
 
